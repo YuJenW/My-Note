@@ -1,3 +1,15 @@
-#Download Git for Windows
+#Install Git and wget
+##Download Git for Windows
 http://git-scm.com/download/win
-#Download Git for Windows
+
+##Download wget
+https://eternallybored.org/misc/wget/
+
+##Copy wegt.exe to **.\Git\mingw64\bin**
+
+#Run bash
+
+1. Go to the folder where bash is stored
+2. Right-click and choose Git Bash Here
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+3.Input * __.sh *
