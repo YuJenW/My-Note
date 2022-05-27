@@ -11,5 +11,7 @@ https://eternallybored.org/misc/wget/
 
 1. Go to the folder where bash is stored
 2. Right-click and choose Git Bash Here
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![Right-Click]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/YuJenW/My-Note/blob/main/Righ-Click.PNG))
+
 3.Input * __.sh *
